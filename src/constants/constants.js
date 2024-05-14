@@ -1,0 +1,1 @@
+export const logo = "https://upload.wikimedia.org/wikipedia/commons/4/44/Sammy_logo.png";
